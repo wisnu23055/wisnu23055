@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @wisnu23055
+- 👋 Hi, I’m wisnu
 - 👀 I’m interested in React JS
 - 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
