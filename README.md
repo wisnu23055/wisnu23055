@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Wisnu
-- 👀 I’m interested in React JS and FLutter
+- 👀 I’m interested in React JS and Flutter
 - 🌱 I’m currently learning React JS and Flutter
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
